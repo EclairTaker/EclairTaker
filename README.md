@@ -39,4 +39,6 @@
 2. Study Algorithm in Java, convert to Python
 3. Upload parts of work history
 </br></br></br>
-## 언젠가는 나의 이 문서도 충만하게 꾸며지기를 위해 노력하겠습니다.
+
+언젠가는 나의 이 문서도 충만하게 꾸며지기를 위해 노력하겠습니다.
+22.02.13 작성 진행 중
