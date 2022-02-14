@@ -16,7 +16,10 @@
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=grey"/></a> &nbsp
 <!-- 아이콘 참조 사이트 : https://simpleicons.org/?q=html5 -->
 
+<!-- Github Stats 코드 -->
 [<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EclairTaker)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Hits 아이콘 추가용 코드 -->
+[<p align="center">![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEclairTaker%2Fhit-counter&count_bg=%236592EB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </br></br></br>
 
 ## Works in Progress
