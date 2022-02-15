@@ -1,7 +1,7 @@
 # Taker K's GitHub
 
 미래의 개발자 Jun Hyung Ko 입니다. Taker K가 더 익숙하답니다. </br>
-인공지능을 공부했던 것과 별개로 다양한 방향으로 개발을 진행해보고 싶습니다.</br>
+여지껏 연구했던 것과 별개로 초심을 기억하며 복습을 진행하고자 합니다.</br>
 잘 부탁드립니다.</br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
