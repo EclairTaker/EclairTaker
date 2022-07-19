@@ -34,8 +34,8 @@
     * Unity
         * 3D Modeling
         * MR (Mixed Reality)
-3. Web Service Development
-    * DUNFO (Tentative name)
+3. ML Operations
+    * Re : Let me become Beauty from starting zero with DNF **(Main Progress in 220719)**
 </br></br></br>
 ## Daily Assignments
 1. Training Markdown
@@ -43,4 +43,4 @@
 3. Upload parts of work history
 </br></br></br>
 
-##### 언젠가는 나의 이 문서도 충만하게 꾸며지기를 위해 노력하겠습니다. 22.02.13 작성 진행 중
+##### 언젠가는 나의 이 문서도 충만하게 꾸며지기를 위해 노력하겠습니다.
