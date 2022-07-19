@@ -35,7 +35,7 @@
         * 3D Modeling
         * MR (Mixed Reality)
 3. ML Operations
-    * Re : Let me become Beauty from starting zero with DNF **(Main Progress in 220719)**
+    * **Re : Let me become Beauty from starting zero with DNF *(Main Progress in 220719)* **
 </br></br></br>
 ## Daily Assignments
 1. Training Markdown
